@@ -34,7 +34,8 @@
         }
       ],
       "expo-iap",
-      "expo-asset"
+      "expo-asset",
+      "expo-build-properties"
     ],
     "extra": {
       "eas": {
